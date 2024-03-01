@@ -40,17 +40,6 @@ The Fruit Shop website is a platform where users can explore a wide range of fru
 - Easily add fruits to your shopping cart and proceed to checkout.
 - Responsive design ensures a seamless experience across various devices.
 
-## Structure
-
-The website is structured into different sections accessible via the navigation menu:
-
-- **Home**: Introduces the store and highlights featured products and offers.
-- **Shop**: Displays categories of fruits available for purchase, with options for filtering and sorting.
-- **About Us**: Shares information about the store's background, mission, and dedication to freshness.
-- **Special Offers**: Highlights ongoing promotions and discounts to encourage sales.
-- **Recipes**: Provides a collection of fruit-based recipes, serving ideas, and nutritional information.
-- **Contact Us**: Offers ways for customers to get in touch with us for inquiries, feedback, and support.
-
 ## How to Use
 
 1. **Navigation**: Use the menu to navigate to different sections of the website.
