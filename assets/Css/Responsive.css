@@ -1,0 +1,156 @@
+@media (min-width:320px) {
+    .footer__top--middle {
+        max-width: 100%
+    }
+
+    .card {
+        max-width: 320px
+    }
+}
+
+@media (min-width:550px) {
+    .container {
+        max-width: 550px;
+        margin-inline: auto
+    }
+}
+
+@media (min-width:768px) {
+    .footer__top--middle {
+        max-width: 100%
+    }
+
+    .card {
+        max-width: 250px
+    }
+
+    .container {
+        max-width: 720px
+    }
+}
+
+@media (max-width:800px) {
+    .footer {
+        text-align: center
+    }
+
+    .footer__top--left,
+    .footer__top--right {
+        align-items: center !important;
+        transform: translateY(0) !important;
+        gap: 20px;
+        padding: 10px !important
+    }
+
+    .footer__bottom>*,
+    .footer__top>* {
+        flex: 100%
+    }
+
+    .float__cards,
+    .hero__mid img {
+        display: none !important
+    }
+
+    .hero .container {
+        flex-wrap: wrap;
+        gap: 30px
+    }
+
+    .desktop-icon a {
+        display: none
+    }
+
+    .mobile-icon a {
+        display: inline
+    }
+
+    .mobile-icon a ion-icon {
+        font-size: larger;
+        color: var(--color-primary)
+    }
+
+    [name=bag-outline]::after {
+        width: 20px;
+        height: 20px
+    }
+
+    body.light_theme .hero-container {
+        background: radial-gradient(var(--gradient2-color))
+    }
+
+    .hero__right {
+        padding-bottom: 2rem
+    }
+
+    .hero .col {
+        flex: 100%
+    }
+}
+
+@media (min-width:992px) {
+    :root {
+        --fs-2: 3rem;
+        --section-pt: 60px;
+        --section-pb: 10px;
+        --hero-padding: 100px
+    }
+
+    .container {
+        max-width: 980px
+    }
+
+    .header {
+        padding-block: 30px
+    }
+
+    .header.active {
+        padding-block: 15px
+    }
+
+    .navbar-actions {
+        order: 1;
+        margin-left: 0
+    }
+
+    .nav-toggle-btn {
+        display: none
+    }
+
+    .navbar {
+        all: unset
+    }
+
+    .navbar-link .mobile-icon {
+        display: inline-flex
+    }
+
+    .navbar-link {
+        transform: translateY(0);
+        font-size: unset;
+        padding-inline: 5px
+    }
+
+    .navbar-list>li {
+        margin: 0;
+        padding: 0;
+        overflow: visible
+    }
+
+    .navbar-list {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 20px
+    }
+
+    .navbar-link::before {
+        height: 2px
+    }
+}
+
+@media (min-width:1200px) {
+    .container {
+        max-width: 1150px
+    }
+}
