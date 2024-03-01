@@ -14,7 +14,7 @@ Welcome to the Fruit Shop website! This website is designed to showcase a variet
 
 ## 🚀 Demo
 
-## Live Demo [👉🏻 Here♥️](https://eng-ahmed-hussien.github.io/Fruit-shop/)
+## Live Demo [👉🏻 Here♥️](https://eng-ahmed-hussien.github.io/Fruit-Shop/)
 
 ## Project Screenshots:
 
